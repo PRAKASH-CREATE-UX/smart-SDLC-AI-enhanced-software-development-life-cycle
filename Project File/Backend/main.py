@@ -6,7 +6,7 @@ import os, json
 from ibm_watson_machine_learning import APIClient
 from ibm_watson_machine_learning.foundation_models import Model
 import sys
-print("Running Python version:", sys.version)
+print("⚙️ Python Version:", sys.version)
 
 
 # IBM Watson setup
