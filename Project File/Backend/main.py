@@ -5,6 +5,9 @@ from typing import List
 import os, json
 from ibm_watson_machine_learning import APIClient
 from ibm_watson_machine_learning.foundation_models import Model
+import sys
+print("Running Python version:", sys.version)
+
 
 # IBM Watson setup
 wml_credentials = {
