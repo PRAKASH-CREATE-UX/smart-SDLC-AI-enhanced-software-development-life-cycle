@@ -1,8 +1,4 @@
 
-ibm-cos-sdk               2.13.6
-ibm-cos-sdk-core          2.13.6
-ibm-cos-sdk-s3transfer    2.13.6
-ibm_watsonx_ai            1.0.2
 importlib_metadata        8.7.0
 numpy                     1.26.4
 pandas                    2.1.4
@@ -17,5 +13,5 @@ starlette                 0.37.2
 streamlit                 1.46.0
 toml                      0.10.2
 torch                     2.7.1
-urllib3                   2.5.0
 uvicorn                   0.30.1
+ibm-watsonx-machine-learning
