@@ -1,6 +1,0 @@
-streamlit
-pandas 
-matplotlib 
-scikit-learn 
-ibm-watson-machine-learning
-dotenv
